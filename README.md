@@ -8,14 +8,14 @@
 - source djangoenv/bin/activate replace with .\djangoenv\Scripts\activate
 - pip install Django psycopg2-binary
 
-#then go to 
+# then go to 
 cd/project/lab2_template
 
 - python3 manage.py makemigrations crud replace with python manage.py makemigrations crud 
 
 - python3 manage.py migrate replace with python manage.py migrate
 
-Postgres should showing this:
+# then the Postgres should minimal be able to showing this:
 - IBM Cloud
 ![Postgres_IBM](https://github.com/eldoma/CRUD-on-Django-Model-Objects/blob/main/CRUD%20in%20Postgres%20IBM%20Cloud.jpg)  
 - Local VS Code Standalone
