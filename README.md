@@ -20,3 +20,5 @@ cd/project/lab2_template
 ![Postgres_IBM](https://github.com/eldoma/CRUD-on-Django-Model-Objects/blob/main/CRUD%20in%20Postgres%20IBM%20Cloud.jpg)  
 - Local VS Code Standalone
 ![Postgres_Local](https://github.com/eldoma/CRUD-on-Django-Model-Objects/blob/main/CRUD%20in%20Postgres.jpg)
+
+_the code itself still incomplete._
