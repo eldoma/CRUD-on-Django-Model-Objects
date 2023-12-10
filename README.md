@@ -22,7 +22,7 @@ cd/project/lab2_template
 
 - python3 manage.py migrate replace with python manage.py migrate
 
-##_In Django environment remember to migrate to python3 manage.py migrate for several major Python .py changes_
+## _In Django environment remember to migrate to python3 manage.py migrate for several major Python .py changes_
 
 ## then the Postgres should minimal be able to showing this:
 - IBM Cloud
