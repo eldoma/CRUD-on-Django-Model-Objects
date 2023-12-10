@@ -8,15 +8,15 @@ Go to Project folder
 - rm lab1_template.zip
 (remove if necessary)
 
+## then go to 
+cd/project/lab2_template
+
 ## Setup Django Environment
 - pip install virtualenv
 - pip install django
 - virtualenv djangoenv replace with  python -m venv djangoenv
 - source djangoenv/bin/activate replace with .\djangoenv\Scripts\activate
 - pip install Django psycopg2-binary
-
-## then go to 
-cd/project/lab2_template
 
 - python3 manage.py makemigrations crud replace with python manage.py makemigrations crud 
 
