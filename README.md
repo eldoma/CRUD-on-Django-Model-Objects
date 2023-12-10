@@ -4,7 +4,7 @@ Go to Project folder
 - pip install --upgrade distro-info
 - pip3 install --upgrade pip==23.2.1 replace with  python.exe -m pip install --upgrade pip==23.3.1 --user
 
-- wget -O Downloads/lab1_template.zip " https://source/lab1_template.zip" _The zip file will be in 'Downloads' folder outside/before project folder_
+- wget -O Downloads/lab1_template.zip " https://source/lab1_template.zip" *The zip file will be in 'Downloads' folder outside/before project folder*
 - rm lab1_template.zip
 (remove if necessary)
 
