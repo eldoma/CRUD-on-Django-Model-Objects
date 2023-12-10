@@ -22,6 +22,8 @@ cd/project/lab2_template
 
 - python3 manage.py migrate replace with python manage.py migrate
 
+_In Django environment remember to migrate to python3 manage.py migrate for several major Python .py changes_
+
 ## then the Postgres should minimal be able to showing this:
 - IBM Cloud
 ![Postgres_IBM](https://github.com/eldoma/CRUD-on-Django-Model-Objects/blob/main/CRUD%20in%20Postgres%20IBM%20Cloud.jpg)  
