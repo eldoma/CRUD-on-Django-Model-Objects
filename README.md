@@ -1,6 +1,5 @@
 # CRUD-on-Django-Model-Objects
-## Runnable either on IBM Cloud or in VS Code Standalone, database using Postgres (Cloud or local standalone) 
-Go to Project folder
+### Runnable either on IBM Cloud or in VS Code Standalone, database using Postgres (Cloud or local standalone) 
 - pip install --upgrade distro-info
 - pip3 install --upgrade pip==23.2.1 replace with  python.exe -m pip install --upgrade pip==23.3.1 --user
 
@@ -8,7 +7,7 @@ Go to Project folder
 - rm lab1_template.zip
 (remove if necessary)
 
-## then go to 
+### Go to specific project Folder & build Django environment
 - cd/project/lab2_template
 
 ## Setup Django Environment inside the specific project's directory
