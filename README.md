@@ -4,7 +4,7 @@ Go to Project folder
 - pip install --upgrade distro-info
 - pip3 install --upgrade pip==23.2.1 replace with  python.exe -m pip install --upgrade pip==23.3.1 --user
 
-- wget -O Downloads/lab1_template.zip " https://source/lab1_template.zip" The zip file will be in 'Downloads' folder outside/before project folder
+- wget -O Downloads/lab1_template.zip " https://source/lab1_template.zip" _The zip file will be in 'Downloads' folder outside/before project folder_
 - rm lab1_template.zip
 (remove if necessary)
 
@@ -28,4 +28,4 @@ cd/project/lab2_template
 - Local VS Code Standalone
 ![Postgres_Local](https://github.com/eldoma/CRUD-on-Django-Model-Objects/blob/main/CRUD%20in%20Postgres.jpg)
 
-# _the code itself still incomplete._
+## _the code itself still incomplete._
