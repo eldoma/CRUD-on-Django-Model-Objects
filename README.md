@@ -11,7 +11,7 @@ Go to Project folder
 ## then go to 
 - cd/project/lab2_template
 
-## Setup Django Environment
+## Setup Django Environment inside the specific project's directory
 - pip install virtualenv
 - pip install django
 - virtualenv djangoenv replace with  python -m venv djangoenv
