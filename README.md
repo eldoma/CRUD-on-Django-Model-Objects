@@ -9,7 +9,7 @@ Go to Project folder
 (remove if necessary)
 
 ## then go to 
-cd/project/lab2_template
+- cd/project/lab2_template
 
 ## Setup Django Environment
 - pip install virtualenv
